@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11807","TS001 for Automation test","chromium","2026-11-06","passed","2026-11-06","","TS001.spec.ts","",""
+"","17119","New Employee added","chromium","2026-11-06","passed","2026-11-06","","TS002.spec.ts","",""
