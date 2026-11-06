@@ -28,6 +28,6 @@ export class Global{
     public textbox_emplastname      :string  ="//input[@name = 'txtEmpLastName']";
     public button_save              :string  = "//input[@id = 'btnEdit']";
 
-    //public link_button            : string = "//a[@text ()= 'Logout']";
+    
 
 };
