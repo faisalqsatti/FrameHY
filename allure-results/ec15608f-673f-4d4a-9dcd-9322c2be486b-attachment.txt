@@ -1,0 +1,9 @@
+Application Opened
+timeout for 3 sec completed
+Login completed
+timeout for 3 sec completed
+New Employee data Added
+timeout for 3 sec completed
+Logout completed 
+timeout for 3 sec completed
+New Empl0yee Addedd Sucessfully
